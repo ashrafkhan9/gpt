@@ -1,7 +1,7 @@
 # UI GPT
 
-![UI GPT Preview](.![screencapture-ui-gpt-mauve-vercel-app-2025-02-26-19_32_41](https://github.com/user-attachments/assets/17c028b1-64d6-4749-84f0-ce1a40380412)
-)
+![UI GPT Preview](https://github.com/user-attachments/assets/17c028b1-64d6-4749-84f0-ce1a40380412)
+
 
 
 This is a fully responsive UI for a chatbot application built using `create-create-app`. It provides a clean and user-friendly interface for interacting with AI-based models.
